@@ -1,2 +1,2 @@
 # plainArtwork
-Logos, themes and everything with planeDE
+plainDE Artwork repository: logos, themes, icons, etc
