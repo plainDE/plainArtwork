@@ -1,2 +1,2 @@
 # plainArtwork
-plainDE Artwork repository: logos, themes, icons, etc
+plainDE Artwork repository: icons, themes, wallpapers, etc
